@@ -2,7 +2,7 @@
 ---
 ## ¿Qué hace el programa?
 
-El programa se encarga de gestionar la cartelera de un cine en MongoDB utilizando Node.js. A partir de las 3 colecciones (películas, directores y reseñas) relacionadas dentro de nuestra base de datos realizamos las operaciones de agrupamiento por puntaje de películas, ordenamiento por su fecha de estreno y filtración por la nacionalidad de los directores.
+El programa se encarga de gestionar la cartelera de un cine en MongoDB utilizando Node.js. A partir de las 3 colecciones (películas, directores y reseñas) relacionadas dentro de nuestra base de datos realizamos las operaciones de ## agrupamiento por puntaje de películas, ordenamiento por su fecha de estreno y filtración por la nacionalidad de los directores.
 
 ---
 
