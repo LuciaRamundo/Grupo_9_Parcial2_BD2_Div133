@@ -10,10 +10,12 @@ El programa se encarga de gestionar la cartelera de un cine en MongoDB utilizand
 1. Instalar en la computadora Node.js, MongoDB (en el puerto 27017). 
 2. Vincular el Visual Studio Code con MongoDB 
 3. Clonar el repositorio
+   
 	git clone https://github.com/LuciaRamundo/Grupo_9_Parcial2_BD2_Div133.git
+
 	cd Grupo_9_Parcial2_BD2_Div133
-4. Instalar la dependencia de mongo con el comando `npm install mongodb`
-5. Ejecutar el archivo con el comando “node index.js”
+5. Instalar la dependencia de mongo con el comando `npm install mongodb`
+6. Ejecutar el archivo con el comando “node index.js”
 
 ---
 
